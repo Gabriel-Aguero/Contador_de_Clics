@@ -1,11 +1,13 @@
 # Mi nombre es Gabriel Agüero
 
 ## Sobre Mi
-### Soy un apasionado por la programacion. De a poco fui adquiriendo mas conocimientos y aprendiendo las diferentes tecnologías que mas se utilizan en la actualidad. Disciplina y perseverancia las claves para poder continuar en este camino.
+### Soy un apasionado por la programación. De a poco fui adquiriendo mas conocimientos y aprendiendo las diferentes tecnologías que mas se utilizan en la actualidad. Disciplina y perseverancia las claves para poder continuar en este camino.
 
 #
 
 ## En esta oportunidad he creado un contador de clics. 
+
+![](./src/images/apiClics.png)
 
 [http://gabrielhaguero.com](http://gabrielhaguero.com/)
 
