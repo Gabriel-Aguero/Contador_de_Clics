@@ -21,9 +21,17 @@ body {
 .title-contenedor {
   width: 100%;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   margin: 20px;
+}
+
+.about{
+  color: #fff;
+  width: 80%;
+  text-align: center;
+  padding-bottom: 50px;
 }
 
 .title {

@@ -18,6 +18,7 @@ function App() {
   return (
     <div className='App'>
       <div className='title-contenedor'>
+        <h1 className='about'>🖐 Hola mi nombre es Gabriel Agüero</h1>
         <h1 className='title'>Contador de Clics</h1>
       </div>
       <div className='contenedor-principal'>

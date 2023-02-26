@@ -5,8 +5,7 @@
 
 #
 
-## En esta oportunidad he creado un contador de clics. 
-
+## En esta oportunidad he creado un contador de clics, como parte del aprendizaje.  
 ![](./src/images/apiClics.png)
 
 [http://gabrielhaguero.com](http://gabrielhaguero.com/)
